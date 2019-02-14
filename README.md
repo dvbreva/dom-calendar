@@ -12,3 +12,4 @@ styles/style.css
 https://github.com/mihail-petrov/unijs-p1-2018-2019  
 https://dzone.com/articles/determining-number-days-month  
 https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model  
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator  
