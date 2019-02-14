@@ -89,7 +89,7 @@ var domLibrary = {
   editHTML: function (elementId, newContent) {
     var element = document.getElementById(elementId);
     newContent = element.innerHTML;
-    return newContent;
+    return element.innerHTML;
   },
 
   getHTML: function (elementId) {
