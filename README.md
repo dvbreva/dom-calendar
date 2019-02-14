@@ -2,10 +2,10 @@
 Това е унивеститетски проект по избираемата дисциплина "Javascript в дълбочина", който представлява библиотека за манипулация на DOM дървото и контрола календар.
 
 ## Съдържание
-index.html
-scripts/calendar.js
-scripts/domlibrary.js
-styles/style.css 
+index.html  
+scripts/calendar.js  
+scripts/domlibrary.js  
+styles/style.css   
 
 ## Acknowledgements
 Този проект е възможен благодарение на:   
